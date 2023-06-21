@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me:
+A highly organized and friendly Software QA professional, able to establish long-term, positive and fun relationships with clients, co-workers and outside resources. I am passionate about ensuring the quality and reliability of software products. Motivated self-starter; with a strong foundation in testing methodologies and techniques, I am skilled at identifying and reporting defects, as well as developing and executing effective test cases. 
+
+When I am not on the job, I like venturing various hands-on jobs projects like sewing, exploring cocktails recipes with different flavors and playing guitar. 
+
+If you would like to learn about how my services can assist your company, please reach out via email- emma.lamamamata@gmail.com.
 
 <!--
 **MamataLama/mamatalama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
